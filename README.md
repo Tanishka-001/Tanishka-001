@@ -1,7 +1,9 @@
 ## Hey There👋,
 
-I’m Tanishka a Data Science graduate based in India
+I’m Tanishka a Data Science graduate based in India.
+
 I turn raw data into insights and build data-driven solutions to real-world problems.  
+
 If something sparks my curiosity, I explore it with data and ship something useful.
 
 ### 🔭 Currently working on
