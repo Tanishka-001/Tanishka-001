@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey There👋,
 
-<!--
-**Tanishka-001/Tanishka-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Tanishka a Data Science graduate based in India
+I turn raw data into insights and build data-driven solutions to real-world problems.  
+If something sparks my curiosity, I explore it with data and ship something useful.
 
-Here are some ideas to get you started:
+### 🔭 Currently
+- Data analysis & machine learning projects  
+- Improving Python, SQL, and model evaluation  
+- Working with real-world datasets & pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech
+**Python · SQL · Pandas · Power BI · Machine Learning · Jupyter · Git · Github**   
+
+### 📌 Projects  
+Check my repositories for data science projects and experiments.
+
+### ✨ Fun fact
+• Curious by nature 
+
+• Learn by building
+
+• Pattern hunter 📊
